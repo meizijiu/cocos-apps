@@ -1,0 +1,60 @@
+{
+  "uuid": {
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/glassback.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/glassfront.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/labeling.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon/watermelon.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon/watermelon01.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_0.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_1.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_2.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_3.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_4.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_5.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_6.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_7.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_8.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_9.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/smoke.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ]
+  },
+  "path": {
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/score.fnt": [
+      "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/score.png"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/title.fnt": [
+      "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/title.png"
+    ]
+  }
+}

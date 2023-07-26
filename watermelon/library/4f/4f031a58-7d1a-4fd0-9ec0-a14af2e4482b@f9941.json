@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_fillet_gray",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 35,
+      "height": 35
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 35,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      11,
+      8,
+      12,
+      17
+    ],
+    "texture": "4f031a58-7d1a-4fd0-9ec0-a14af2e4482b@6c48a",
+    "packable": true
+  }
+}

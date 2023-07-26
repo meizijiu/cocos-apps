@@ -1,0 +1,288 @@
+{
+  "version": {
+    "builder": "1.2.3"
+  },
+  "__version__": "1.2.4",
+  "BuildTaskManager": {
+    "taskMap": {
+      "1612670329370": {
+        "id": "1612670329370",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "./build",
+          "compressTexture": true,
+          "debug": false,
+          "experimentalEraseModules": false,
+          "gfx": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "merge_fruits",
+          "outputName": "wechatgame",
+          "packAutoAtlas": true,
+          "packages": {
+            "wechatgame": {
+              "appid": "wx6ac3f5090a6b99c5",
+              "buildSubPackage": true,
+              "orientation": "portrait",
+              "separateEngine": false
+            }
+          },
+          "platform": "wechatgame",
+          "replaceSplashScreen": false,
+          "scenes": [
+            {
+              "url": "db://assets/GameScene/GameScene.scene",
+              "uuid": "5281406b-8430-479a-a42f-de8522e80a88"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "5281406b-8430-479a-a42f-de8522e80a88"
+        },
+        "message": "2021/2/7 11:59 Build success in 57024 ms!",
+        "logMap": {
+          "log": 0,
+          "warn": 0,
+          "error": 0,
+          "debug": 0
+        }
+      },
+      "1612674930612": {
+        "id": "1612674930612",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "./build",
+          "compressTexture": true,
+          "debug": false,
+          "experimentalEraseModules": false,
+          "gfx": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "merge ffruits 3D",
+          "outputName": "android_en",
+          "packAutoAtlas": true,
+          "packages": {
+            "android": {
+              "apiLevel": "android-23",
+              "appABIs": [
+                "armeabi-v7a",
+                "arm64-v8a"
+              ],
+              "appBundle": false,
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "keystorePassword": "",
+              "keystorePath": "",
+              "orientation": {
+                "landscapeLeft": false,
+                "landscapeRight": false,
+                "portrait": true,
+                "upsideDown": false
+              },
+              "packageName": "org.cocos2dx.android",
+              "useDebugKeystore": true
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": false
+              },
+              "template": "link"
+            }
+          },
+          "platform": "android",
+          "replaceSplashScreen": false,
+          "scenes": [
+            {
+              "url": "db://assets/GameScene/GameScene.scene",
+              "uuid": "5281406b-8430-479a-a42f-de8522e80a88"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "5281406b-8430-479a-a42f-de8522e80a88"
+        },
+        "rawOptions": {
+          "buildPath": "./build",
+          "compressTexture": true,
+          "debug": false,
+          "experimentalEraseModules": false,
+          "gfx": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "合成大西瓜3D",
+          "outputName": "android",
+          "packAutoAtlas": true,
+          "packages": {
+            "android": {
+              "apiLevel": "android-23",
+              "appABIs": [
+                "armeabi-v7a",
+                "arm64-v8a"
+              ],
+              "appBundle": false,
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "keystorePassword": "",
+              "keystorePath": "",
+              "orientation": {
+                "landscapeLeft": false,
+                "landscapeRight": false,
+                "portrait": true,
+                "upsideDown": false
+              },
+              "packageName": "org.cocos2dx.android",
+              "useDebugKeystore": true
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": false
+              },
+              "template": "link"
+            }
+          },
+          "platform": "android",
+          "replaceSplashScreen": false,
+          "scenes": [
+            {
+              "url": "db://assets/GameScene/GameScene.scene",
+              "uuid": "5281406b-8430-479a-a42f-de8522e80a88"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "5281406b-8430-479a-a42f-de8522e80a88"
+        },
+        "message": "2021/2/19 16:18 Build success in 7849 ms!",
+        "logMap": {
+          "log": 0,
+          "warn": 0,
+          "error": 0,
+          "debug": 0
+        }
+      },
+      "1613709285746": {
+        "id": "1613709285746",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "./build",
+          "compressTexture": true,
+          "debug": false,
+          "experimentalEraseModules": false,
+          "gfx": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "createwatermelon3D",
+          "outputName": "ios_en",
+          "packAutoAtlas": true,
+          "packages": {
+            "ios": {
+              "orientation": {
+                "portrait": true
+              },
+              "packageName": "com.weiliyouxi.mergefruits"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": false
+              },
+              "template": "default"
+            }
+          },
+          "platform": "ios",
+          "replaceSplashScreen": true,
+          "scenes": [
+            {
+              "url": "db://assets/GameScene/GameScene.scene",
+              "uuid": "5281406b-8430-479a-a42f-de8522e80a88"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "5281406b-8430-479a-a42f-de8522e80a88"
+        },
+        "message": "2021/2/19 16:24 Build success in 5697 ms!",
+        "logMap": {
+          "log": 0,
+          "warn": 0,
+          "error": 0,
+          "debug": 0
+        }
+      },
+      "1614143335646": {
+        "id": "1614143335646",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "./build",
+          "compressTexture": true,
+          "debug": false,
+          "experimentalEraseModules": false,
+          "gfx": false,
+          "md5Cache": true,
+          "mergeStartScene": true,
+          "name": "merge fruits 3D",
+          "outputName": "android-en",
+          "packAutoAtlas": true,
+          "packages": {
+            "android": {
+              "apiLevel": "android-23",
+              "appABIs": [
+                "armeabi-v7a",
+                "arm64-v8a"
+              ],
+              "appBundle": false,
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "keystorePassword": "",
+              "keystorePath": "",
+              "orientation": {
+                "landscapeLeft": false,
+                "landscapeRight": false,
+                "portrait": true,
+                "upsideDown": false
+              },
+              "packageName": "com.weiliyouxi.mergefruits.en",
+              "useDebugKeystore": true
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "template": "link"
+            }
+          },
+          "platform": "android",
+          "replaceSplashScreen": true,
+          "scenes": [
+            {
+              "url": "db://assets/GameScene/GameScene.scene",
+              "uuid": "5281406b-8430-479a-a42f-de8522e80a88"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "5281406b-8430-479a-a42f-de8522e80a88"
+        },
+        "message": "2021/2/24 13:09 Build success in 39015 ms!",
+        "logMap": {
+          "log": 31,
+          "warn": 10,
+          "error": 21,
+          "debug": 198
+        }
+      }
+    }
+  },
+  "common": {
+    "outputName": "android-en",
+    "platform": "android",
+    "scenes": [
+      {
+        "url": "db://assets/GameScene/GameScene.scene",
+        "uuid": "5281406b-8430-479a-a42f-de8522e80a88"
+      }
+    ],
+    "name": "merge fruits 3D",
+    "replaceSplashScreen": true,
+    "md5Cache": true,
+    "mergeStartScene": true
+  }
+}

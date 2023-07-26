@@ -1,0 +1,14 @@
+{
+  "options": {
+    "android": {
+      "polyfills": {
+        "asyncFunctions": false
+      },
+      "template": "link"
+    },
+    "ios": {
+      "template": "default"
+    }
+  },
+  "__version__": "1.0.0"
+}

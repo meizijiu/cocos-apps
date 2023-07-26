@@ -1,0 +1,1042 @@
+{
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config.meta": {
+    "time": 1690352844318.5354
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts.meta": {
+    "time": 1690352844318.9705
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene.meta": {
+    "time": 1690352844303.4094
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts.meta": {
+    "time": 1690352844318.1099
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameScene.scene.meta": {
+    "time": 1690352844317.6143
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts.meta": {
+    "time": 1690352844317.2456
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil.meta": {
+    "time": 1690352844315.7092
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/glassback.mtl.meta": {
+    "time": 1690352844316.8694
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/glassfront.mtl.meta": {
+    "time": 1690352844316.51
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/labeling.mtl.meta": {
+    "time": 1690352844316.0962
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab.meta": {
+    "time": 1690352844307.7131
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit0.prefab.meta": {
+    "time": 1690352844312.8672
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit1.prefab.meta": {
+    "time": 1690352844312.5312
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit2.prefab.meta": {
+    "time": 1690352844312.1414
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit3.prefab.meta": {
+    "time": 1690352844310.7017
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit4.prefab.meta": {
+    "time": 1690352844310.3132
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit5.prefab.meta": {
+    "time": 1690352844309.9456
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit6.prefab.meta": {
+    "time": 1690352844309.5908
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit7.prefab.meta": {
+    "time": 1690352844309.1587
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit8.prefab.meta": {
+    "time": 1690352844308.8203
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit9.prefab.meta": {
+    "time": 1690352844308.4883
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/smoke.prefab.meta": {
+    "time": 1690352844308.0671
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui.meta": {
+    "time": 1690352844303.7983
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/BgNodeCtrl.ts.meta": {
+    "time": 1690352844307.3064
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts.meta": {
+    "time": 1690352844306.9153
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/RefreshFruitNodeCtrl.ts.meta": {
+    "time": 1690352844306.495
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer.meta": {
+    "time": 1690352844305.135
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts.meta": {
+    "time": 1690352844306.0947
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/gameOverLayer.prefab.meta": {
+    "time": 1690352844305.5198
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/touchNodeCtrl.ts.meta": {
+    "time": 1690352844304.602
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/watermelonIcon.prefab.meta": {
+    "time": 1690352844304.2317
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript.meta": {
+    "time": 1690352844295.865
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts.meta": {
+    "time": 1690352844303.063
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts.meta": {
+    "time": 1690352844302.7034
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts.meta": {
+    "time": 1690352844302.3367
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/BaseUILayerCtrl.ts.meta": {
+    "time": 1690352844301.9583
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Billboard.ts.meta": {
+    "time": 1690352844301.515
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts.meta": {
+    "time": 1690352844301.1584
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/GlobalTemp.ts.meta": {
+    "time": 1690352844300.8406
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts.meta": {
+    "time": 1690352844300.4558
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts.meta": {
+    "time": 1690352844300.1028
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelTicksCtrl.ts.meta": {
+    "time": 1690352844299.7231
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelsCtrl.ts.meta": {
+    "time": 1690352844299.3398
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageSpritesCtrl.ts.meta": {
+    "time": 1690352844298.986
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LayoutForTopToolAndBanner.ts.meta": {
+    "time": 1690352844298.5537
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LocalData.ts.meta": {
+    "time": 1690352844298.1516
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts.meta": {
+    "time": 1690352844297.809
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/ProgressBarTickCtrl.ts.meta": {
+    "time": 1690352844297.4683
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts.meta": {
+    "time": 1690352844297.118
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/dayjs.min.js.meta": {
+    "time": 1690352844296.7607
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/numeral.js.meta": {
+    "time": 1690352844296.3755
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/migrate-canvas.ts.meta": {
+    "time": 1690352844295.498
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res.meta": {
+    "time": 1690352844258.957
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/GameOVerLauer2.ts.meta": {
+    "time": 1690352844289.9438
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio.meta": {
+    "time": 1690352844286.62
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/bgm.mp3.meta": {
+    "time": 1690352844288.9307
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/button.mp3.meta": {
+    "time": 1690352844288.4194
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/drop.mp3.meta": {
+    "time": 1690352844288.0085
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/great.mp3.meta": {
+    "time": 1690352844287.4426
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/megre.mp3.meta": {
+    "time": 1690352844287.0842
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx.meta": {
+    "time": 1690352844278.4006
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon.meta": {
+    "time": 1690352844285.4478
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon/watermelon.mtl.meta": {
+    "time": 1690352844286.2058
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon/watermelon01.mtl.meta": {
+    "time": 1690352844285.7788
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit.fbx.meta": {
+    "time": 1690352844283.924
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_0.mtl.meta": {
+    "time": 1690352844283.5994
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_1.mtl.meta": {
+    "time": 1690352844282.963
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_2.mtl.meta": {
+    "time": 1690352844282.61
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_3.mtl.meta": {
+    "time": 1690352844282.2893
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_4.mtl.meta": {
+    "time": 1690352844281.964
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_5.mtl.meta": {
+    "time": 1690352844281.6238
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_6.mtl.meta": {
+    "time": 1690352844281.2373
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_7.mtl.meta": {
+    "time": 1690352844280.879
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_8.mtl.meta": {
+    "time": 1690352844280.531
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_9.mtl.meta": {
+    "time": 1690352844280.1714
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/glassCube.FBX.meta": {
+    "time": 1690352844279.806
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/watermelon.fbx.meta": {
+    "time": 1690352844279.1067
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts.meta": {
+    "time": 1690352844276.4353
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/score.fnt.meta": {
+    "time": 1690353510993.612
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/title.fnt.meta": {
+    "time": 1690353510998.4653
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png.meta": {
+    "time": 1690352844266.6975
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture.meta": {
+    "time": 1690352844259.3547
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/smoke.mtl.meta": {
+    "time": 1690352844260.1602
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/resources.meta": {
+    "time": 1690352844257.6958
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/resources/audio.prefab.meta": {
+    "time": 1690352844258.4685
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/resources/prefabs.meta": {
+    "time": 1690352844258.0947
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/yangqun.meta": {
+    "time": 1690352844256.7908
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/yangqun/yangqun.scene.meta": {
+    "time": 1690352844257.1733
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG.png.meta": {
+    "time": 1690352844294.9282
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG1.png.meta": {
+    "time": 1690352844294.3826
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG2.png.meta": {
+    "time": 1690352844293.6296
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG3.png.meta": {
+    "time": 1690352844292.8691
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG4.png.meta": {
+    "time": 1690352844292.1714
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG5.png.meta": {
+    "time": 1690352844291.6313
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG6.png.meta": {
+    "time": 1690352844290.9846
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG7.png.meta": {
+    "time": 1690352844290.4453
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/score.png.meta": {
+    "time": 1690352844277.6282
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/title.png.meta": {
+    "time": 1690352844276.7722
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/common_fillet_gray.png.meta": {
+    "time": 1690352844276.0283
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/common_gray1.png.meta": {
+    "time": 1690352844275.6667
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_button0.png.meta": {
+    "time": 1690352844275.3403
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_button2.png.meta": {
+    "time": 1690352844275.0142
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_button3.png.meta": {
+    "time": 1690352844274.5781
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_champion.png.meta": {
+    "time": 1690352844274.1802
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_icon_heart.png.meta": {
+    "time": 1690352844273.857
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_icon_heart_bg.png.meta": {
+    "time": 1690352844273.5073
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_plane0.png.meta": {
+    "time": 1690352844273.1094
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_plane1.png.meta": {
+    "time": 1690352844272.7354
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_video.png.meta": {
+    "time": 1690352844272.3875
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_0.png.meta": {
+    "time": 1690352844271.9695
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_1.png.meta": {
+    "time": 1690352844271.5466
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_2.png.meta": {
+    "time": 1690352844271.1812
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_3.png.meta": {
+    "time": 1690352844270.8313
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_4.png.meta": {
+    "time": 1690352844270.4683
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_5.png.meta": {
+    "time": 1690352844270.0789
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_6.png.meta": {
+    "time": 1690352844269.6729
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_7.png.meta": {
+    "time": 1690352844268.914
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_8.png.meta": {
+    "time": 1690352844267.5989
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_9.png.meta": {
+    "time": 1690352844267.0815
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_0.png.meta": {
+    "time": 1690352844266.0632
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_1.png.meta": {
+    "time": 1690352844265.3918
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_2.png.meta": {
+    "time": 1690352844264.8098
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_3.png.meta": {
+    "time": 1690352844264.1846
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_4.png.meta": {
+    "time": 1690352844263.685
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_5.png.meta": {
+    "time": 1690352844263.1382
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_6.png.meta": {
+    "time": 1690352844262.4895
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_7.png.meta": {
+    "time": 1690352844261.696
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_8.png.meta": {
+    "time": 1690352844261.1672
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_9.png.meta": {
+    "time": 1690352844260.6023
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/smoke.png.meta": {
+    "time": 1690352844259.766
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config": {
+    "time": 1690352844319.1238,
+    "uuid": "48408269-69c3-47e0-8ca6-2615d68d4a56",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene": {
+    "time": 1690352844318.2634,
+    "uuid": "37558081-fd0b-4e76-bb87-eb7487eb2134",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil": {
+    "time": 1690352844317.01,
+    "uuid": "c0a1548b-136d-4ae0-88d5-251800de89cc",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts": {
+    "time": 1690352844319.1587,
+    "uuid": "c840ef4d-fbbc-4d1e-b8f5-6473c01cbf95",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts": {
+    "time": 1690352844318.3003,
+    "uuid": "7ed5da6d-ca4b-4529-8be8-a5b3cdf58f03",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab": {
+    "time": 1690352844313.013,
+    "uuid": "2ed365a0-ad22-4b81-a20f-4336aaf9eead",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts": {
+    "time": 1690352844317.4326,
+    "uuid": "6559f3cb-7cba-4c3e-9ac3-699d164600d3",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/glassback.mtl": {
+    "time": 1690352844317.0461,
+    "uuid": "71431ef5-c7b1-4ea0-b29e-929fdb40a60c",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/glassfront.mtl": {
+    "time": 1690352844316.706,
+    "uuid": "e696decb-884d-42e1-8c1e-d395a0638266",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/materil/labeling.mtl": {
+    "time": 1690352844316.3342,
+    "uuid": "5ff7dbac-5e13-4b5c-a985-254c9fc10060",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameScene.scene": {
+    "time": 1690354324421.4365,
+    "uuid": "5281406b-8430-479a-a42f-de8522e80a88",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit0.prefab": {
+    "time": 1690352844313.502,
+    "uuid": "a0836765-7f75-498d-b93e-cf4536f3952d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit1.prefab": {
+    "time": 1690352844312.702,
+    "uuid": "33a12d42-8eec-45e4-be5d-f0a32a1e9420",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit2.prefab": {
+    "time": 1690352844312.3533,
+    "uuid": "bb4c14c4-291a-4f01-83a5-62587c467d4b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit3.prefab": {
+    "time": 1690352844311.9146,
+    "uuid": "1a2d99c3-6a45-4edc-b763-45e530e2ccb6",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit4.prefab": {
+    "time": 1690352844310.4888,
+    "uuid": "4611eab0-782e-4467-945a-b8eba4b62010",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit6.prefab": {
+    "time": 1690352844309.7693,
+    "uuid": "30539a5e-78a2-4253-b4be-54324f792ff5",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit5.prefab": {
+    "time": 1690352844310.1238,
+    "uuid": "073bdf20-464e-40fd-9e05-9fa2bc6f4afb",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui": {
+    "time": 1690352844307.4553,
+    "uuid": "d2db8c72-76b0-4663-ab5f-761f3a7bda6f",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit7.prefab": {
+    "time": 1690352844309.3445,
+    "uuid": "a0ed361e-8dc4-4865-98f3-ebee9d77e734",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/BgNodeCtrl.ts": {
+    "time": 1690352844307.5015,
+    "uuid": "7bcf64f1-c6f3-44ad-b640-828c74f45fef",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts": {
+    "time": 1690352844307.1157,
+    "uuid": "aad392ce-fdca-4731-bded-6e20ddfbe2fd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer": {
+    "time": 1690352844306.233,
+    "uuid": "4e2fca40-5c6b-417f-9f28-31160f44982f",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/RefreshFruitNodeCtrl.ts": {
+    "time": 1690352844306.7024,
+    "uuid": "23abaa76-661b-42c7-82cb-b273591242da",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts": {
+    "time": 1690352844306.2688,
+    "uuid": "e1072f70-eaab-45c4-aeb3-2a923d5812a6",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit8.prefab": {
+    "time": 1690352844309.0002,
+    "uuid": "913d6d7c-a435-44c6-a1bc-7b33549295c4",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/touchNodeCtrl.ts": {
+    "time": 1690352844304.7913,
+    "uuid": "6874cf54-2157-4ee1-a4a6-6d1300ca4281",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript": {
+    "time": 1690352844303.1814,
+    "uuid": "f92966b0-9c3d-4c54-ae87-0473c9b432f8",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/fruit9.prefab": {
+    "time": 1690352844308.6755,
+    "uuid": "5236eb23-d289-4b28-8f5d-579719fa63ec",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts": {
+    "time": 1690352844303.2136,
+    "uuid": "91d23b20-d8b2-4baf-b68d-1d7be5830ed3",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts": {
+    "time": 1690352844302.8884,
+    "uuid": "a7d38b33-db12-4cd3-91ae-bc404d4f383b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/prefab/smoke.prefab": {
+    "time": 1690352844308.259,
+    "uuid": "f692d25e-fc77-4d16-877f-1950b6f36e40",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts": {
+    "time": 1690352844302.498,
+    "uuid": "3bbfff11-6822-4ca9-a5b9-7557433f3e1c",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/BaseUILayerCtrl.ts": {
+    "time": 1690352844302.1597,
+    "uuid": "1ee91558-eac4-4051-9087-7db53af6f196",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Billboard.ts": {
+    "time": 1690352844301.6755,
+    "uuid": "d98347ad-9514-4001-93b0-7c4f0dd8c01b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts": {
+    "time": 1690352844301.3245,
+    "uuid": "c2bded6d-8d02-41c9-a619-7d95343d50c9",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/GlobalTemp.ts": {
+    "time": 1690352844301.0044,
+    "uuid": "f086f1bf-a9b0-494f-9e24-1c24ebac5133",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts": {
+    "time": 1690352844300.6602,
+    "uuid": "4559c97a-5f9a-4845-b7cd-96f29ae1aa08",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts": {
+    "time": 1690352844300.28,
+    "uuid": "b3d00314-6aa9-4909-8359-68f8831ba8d2",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/gameOverLayer.prefab": {
+    "time": 1690352844305.7336,
+    "uuid": "7247d5a4-7b40-4f55-b706-75d08cf10a11",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/watermelonIcon.prefab": {
+    "time": 1690352844304.43,
+    "uuid": "33b41491-60e6-4fe0-bf94-766760481e79",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelTicksCtrl.ts": {
+    "time": 1690352844299.8997,
+    "uuid": "4bc2b694-c133-42b0-af59-8c0cfaaef241",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelsCtrl.ts": {
+    "time": 1690352844299.5508,
+    "uuid": "759ec0d1-f9e8-4568-8103-fa091b547152",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageSpritesCtrl.ts": {
+    "time": 1690352844299.1592,
+    "uuid": "5e5c6254-7095-45c3-a05d-d0cd5d6809dd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LayoutForTopToolAndBanner.ts": {
+    "time": 1690352844298.7642,
+    "uuid": "4a2c8b41-ca0c-4922-a393-a27d89265db7",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LocalData.ts": {
+    "time": 1690352844298.3247,
+    "uuid": "81cae5b2-de7b-499d-92fb-c92ff6486e83",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts": {
+    "time": 1690352844297.9646,
+    "uuid": "baaeb516-a600-4c83-8bf7-1238ad111e51",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/ProgressBarTickCtrl.ts": {
+    "time": 1690352844297.6448,
+    "uuid": "21a29009-08d4-46f7-bddd-3b7d09266a13",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res": {
+    "time": 1690354169120.263,
+    "uuid": "f12f6327-c037-400b-9b59-ae3209d72069",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts": {
+    "time": 1690352844297.2913,
+    "uuid": "e01d44cc-ef2e-4556-8195-b2adf1c85225",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio": {
+    "time": 1690352844289.0928,
+    "uuid": "ad8e45e3-8dbe-446b-9979-b90272043d98",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/migrate-canvas.ts": {
+    "time": 1690352844295.713,
+    "uuid": "daab214e-b0fb-4fff-b7a9-4a1223075250",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/GameOVerLauer2.ts": {
+    "time": 1690352844290.1643,
+    "uuid": "9a4167a4-1ca2-4853-b7c6-70ace474cee2",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/numeral.js": {
+    "time": 1690352844296.5862,
+    "uuid": "ac13478e-6b49-45e1-94df-648e5151678d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/dayjs.min.js": {
+    "time": 1690352844296.9336,
+    "uuid": "dd88caa3-bc8a-428f-9090-27d2bcd9323d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/drop.mp3": {
+    "time": 1690352844288.1904,
+    "uuid": "f9cec8ec-b48c-457e-954d-2f18b45262bf",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/great.mp3": {
+    "time": 1690352844287.6604,
+    "uuid": "ba4b96ca-63d5-4160-b51e-6462ff769d64",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/button.mp3": {
+    "time": 1690352844288.687,
+    "uuid": "4143e35f-0de3-4966-ab3a-08a86ec48d4b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx": {
+    "time": 1690352844285.596,
+    "uuid": "37856e6d-0e8d-44fd-ac0f-95fafadb2f1a",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon": {
+    "time": 1690352844286.3486,
+    "uuid": "8e4f33b9-b970-4466-a23c-e86498e3eed5",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/megre.mp3": {
+    "time": 1690352844287.281,
+    "uuid": "27f51f88-f060-48ce-b454-ea101bde6476",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon/watermelon01.mtl": {
+    "time": 1690352844286.0098,
+    "uuid": "249cb8ee-a412-4ad7-b760-5ac222951685",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_0.mtl": {
+    "time": 1690352844283.7512,
+    "uuid": "a359cb0f-90c6-44de-bc7c-ea349074f06e",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/Materials_watermelon/watermelon.mtl": {
+    "time": 1690352844286.3877,
+    "uuid": "c6fa6624-50b2-4b78-8ae5-b9e0b677eebd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_4.mtl": {
+    "time": 1690352844282.122,
+    "uuid": "ca6d5397-eb3d-4fe9-8b43-ebbbbd804b30",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_3.mtl": {
+    "time": 1690352844282.4421,
+    "uuid": "8a890eb3-a29c-4ad2-87f6-396f4274c8dd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_1.mtl": {
+    "time": 1690352844283.124,
+    "uuid": "67dcd8e5-75ab-4ea9-a683-5374be3052a7",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_2.mtl": {
+    "time": 1690352844282.7598,
+    "uuid": "7c25c65f-625b-4bb1-8520-1b532ae83828",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_5.mtl": {
+    "time": 1690352844281.789,
+    "uuid": "95487fbd-dbd8-4ddd-9ae0-f55a6a367f7e",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_7.mtl": {
+    "time": 1690352844281.0454,
+    "uuid": "40476688-10c7-4970-8c64-863583cf62e9",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_6.mtl": {
+    "time": 1690352844281.4429,
+    "uuid": "84b9b62a-fce0-4b16-bf85-122bc32bdad7",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_9.mtl": {
+    "time": 1690352844280.3506,
+    "uuid": "3cfa2706-3702-472b-9d86-dfcfbeeedb1a",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit_8.mtl": {
+    "time": 1690352844280.705,
+    "uuid": "2daff0da-037b-455a-a336-de90f468384e",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts": {
+    "time": 1690352844278.13,
+    "uuid": "5e7d57db-6e72-4b1b-8522-d719de386420",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/score.fnt": {
+    "time": 1690352844278.1702,
+    "uuid": "3cc3144c-a488-4b86-8939-7b061f31264e",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/title.fnt": {
+    "time": 1690352844277.4185,
+    "uuid": "a2cb60ef-5a2a-4ce4-b723-62516f23c809",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png": {
+    "time": 1690352844276.1895,
+    "uuid": "fa733d44-c1b9-45ba-8ef0-c31058b04af2",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture": {
+    "time": 1690352844266.2642,
+    "uuid": "eb4e193c-af31-44aa-a5bc-d36fc3d9447f",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/resources": {
+    "time": 1690352844258.6958,
+    "uuid": "69879014-b238-4312-a916-a6c131864ddc",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/smoke.mtl": {
+    "time": 1690352844260.3591,
+    "uuid": "6f6ea4ac-f269-43c3-bdb4-b96b4d782bd8",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/resources/audio.prefab": {
+    "time": 1690352844258.7434,
+    "uuid": "afde3574-97d7-42b2-9e40-e8c7f919fc1d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/resources/prefabs": {
+    "time": 1690352844258.2522,
+    "uuid": "f9e7d17b-0541-4f97-b787-dd49de42a65a",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/yangqun": {
+    "time": 1690352844257.3545,
+    "uuid": "97ae6c61-a504-429b-9ef9-af2faefab937",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/audio/bgm.mp3": {
+    "time": 1690352844289.6733,
+    "uuid": "03153a06-d64d-4abf-b6cc-8f94d0562fdd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/yangqun/yangqun.scene": {
+    "time": 1690353510720.0312,
+    "uuid": "39aadd15-cf34-4aa4-a697-005cf80ef219",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/glassCube.FBX": {
+    "time": 1690352844279.9873,
+    "uuid": "dfe47937-82c6-435c-825e-fcfcb05f0953",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/watermelon.fbx": {
+    "time": 1690352844279.5164,
+    "uuid": "a35c7ece-37ff-4ef1-a120-674549e21cc7",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG1.png": {
+    "time": 1690352844294.7087,
+    "uuid": "c01a54df-92ca-4d84-8280-4046906a7674",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG.png": {
+    "time": 1690352844295.2747,
+    "uuid": "bbe9b2e0-587f-4a6a-a4ab-34bf3f0a269f",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG2.png": {
+    "time": 1690352844294.1204,
+    "uuid": "6e2fe2a0-a7dd-4f3c-b786-bf9e2bed3f72",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG4.png": {
+    "time": 1690352844292.6304,
+    "uuid": "ae83165c-10ce-4b3e-8639-4a2532d187cc",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG3.png": {
+    "time": 1690352844293.3157,
+    "uuid": "16c33988-672e-49af-b2ee-b82e40b61d70",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG5.png": {
+    "time": 1690352844291.9316,
+    "uuid": "d0d8ce9f-8173-49c8-bb80-4ec23a80463e",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG6.png": {
+    "time": 1690352844291.388,
+    "uuid": "bc6c84f4-982f-4478-b28e-fbff5a203853",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/common_fillet_gray.png": {
+    "time": 1690352844276.2249,
+    "uuid": "4f031a58-7d1a-4fd0-9ec0-a14af2e4482b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/BG7.png": {
+    "time": 1690352844290.7588,
+    "uuid": "956a2b49-fccc-49ed-8bbf-3533b2aa82b6",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/score.png": {
+    "time": 1690352844277.835,
+    "uuid": "50fb5ac5-63be-452b-a47c-3cf841d80b81",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fonts/title.png": {
+    "time": 1690352844276.9988,
+    "uuid": "512b037b-9cb1-455e-818d-9ba757ee2841",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/common_gray1.png": {
+    "time": 1690352844275.8198,
+    "uuid": "1aa31711-c088-4ddd-abc8-776ad3ee9201",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_button2.png": {
+    "time": 1690352844275.1812,
+    "uuid": "99497a84-bab4-4c87-9212-2d15964250dc",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_button0.png": {
+    "time": 1690352844275.5059,
+    "uuid": "3dd4f594-55ca-4ba1-b1a3-441e6eb44783",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_button3.png": {
+    "time": 1690352844274.8342,
+    "uuid": "8facd93a-2e93-4014-b1c1-08e30a9e48ff",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_champion.png": {
+    "time": 1690352844274.3496,
+    "uuid": "b051fbbf-d09d-47f4-9270-1a643271ac81",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_plane0.png": {
+    "time": 1690352844273.2847,
+    "uuid": "f32caedb-9cf0-480b-83f0-851ec8175a64",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_icon_heart.png": {
+    "time": 1690352844274.01,
+    "uuid": "680d4656-7fe5-48b8-ab05-f86b00527097",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_icon_heart_bg.png": {
+    "time": 1690352844273.699,
+    "uuid": "085acb06-3e3c-4dc6-b024-3851004a18a1",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_video.png": {
+    "time": 1690352844272.5464,
+    "uuid": "1f69b950-56e9-412e-8de4-5781b94a2d9c",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/game_plane1.png": {
+    "time": 1690352844272.93,
+    "uuid": "686267a7-5e5b-49db-99b8-3f717268b3dc",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_1.png": {
+    "time": 1690352844271.6975,
+    "uuid": "f0fa317c-f5e8-4f76-a219-5a37163694f9",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_0.png": {
+    "time": 1690352844272.1487,
+    "uuid": "f66b8dd5-fd81-4b41-b65d-b3e23910c4f9",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/fbx/fruit.fbx": {
+    "time": 1690352844285.1511,
+    "uuid": "cf6d5b21-40cc-4a76-9145-b9ca7d8b3600",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_3.png": {
+    "time": 1690352844270.994,
+    "uuid": "e60b8934-6715-4d95-93ca-a18f4da73f30",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_2.png": {
+    "time": 1690352844271.3486,
+    "uuid": "3cfb37bb-bd7a-4496-82ac-44785d9d41c0",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_4.png": {
+    "time": 1690352844270.634,
+    "uuid": "e75eb43a-bd9a-48da-995d-65dd0b30199f",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_5.png": {
+    "time": 1690352844270.2473,
+    "uuid": "c79ac05b-b9e8-4aeb-8b46-300303104116",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_6.png": {
+    "time": 1690352844269.8691,
+    "uuid": "b1bd22f8-01fa-43ff-94da-9ebc45959429",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_0.png": {
+    "time": 1690352844266.3474,
+    "uuid": "9f36344f-6cda-4974-9a3f-eaa0b291b29c",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_1.png": {
+    "time": 1690352844265.8174,
+    "uuid": "37c62af4-485f-44a8-b824-966b4ed0ee56",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_7.png": {
+    "time": 1690352844269.1946,
+    "uuid": "20b7dd6f-d053-447e-a993-9cda1c66a37f",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_8.png": {
+    "time": 1690352844268.5117,
+    "uuid": "17a7b80b-1661-4cc6-88bd-3dbc093eae02",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/png/icon_fruit_9.png": {
+    "time": 1690352844267.3381,
+    "uuid": "bc36cff0-c4a4-4f08-a7c1-32eecb938804",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_2.png": {
+    "time": 1690352844265.1367,
+    "uuid": "b818655e-e456-415a-8637-aa9fc91f2296",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_5.png": {
+    "time": 1690352844263.4438,
+    "uuid": "873b4524-1e77-4569-8257-dea2362feac6",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_4.png": {
+    "time": 1690352844263.978,
+    "uuid": "41ef916d-b1a6-4cc9-87c4-9f9463362fa4",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_3.png": {
+    "time": 1690352844264.5774,
+    "uuid": "61faa51c-176d-434b-8e4b-bb0d6b46f7b8",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_6.png": {
+    "time": 1690352844262.916,
+    "uuid": "24063a70-346e-4174-b771-8c77d94db2cd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_7.png": {
+    "time": 1690352844262.1023,
+    "uuid": "29dd79d4-1cca-4b4c-9164-8fdff04a7d71",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/smoke.png": {
+    "time": 1690352844259.966,
+    "uuid": "2bd2869c-ab5b-420f-b52b-f04434d4d6e4",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_9.png": {
+    "time": 1690352844260.9155,
+    "uuid": "34fa8fc9-9c4f-4a68-89ce-9463b2e6c4e8",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/texture/fruit_8.png": {
+    "time": 1690352844261.457,
+    "uuid": "63561d7f-dd72-4cc6-bd1d-e39d8b8af36c",
+    "missing": false
+  }
+}

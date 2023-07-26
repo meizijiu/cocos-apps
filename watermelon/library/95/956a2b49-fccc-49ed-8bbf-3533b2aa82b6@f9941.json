@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG7",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 1138
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 640,
+      "height": 1138
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "956a2b49-fccc-49ed-8bbf-3533b2aa82b6@6c48a",
+    "packable": true
+  }
+}

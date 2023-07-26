@@ -1,0 +1,2494 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 6451.487208992243,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-cannon",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-box2d",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "loc": {
+          "start": {
+            "line": 22,
+            "column": 14
+          },
+          "end": {
+            "line": 22,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "loc": {
+          "start": {
+            "line": 23,
+            "column": 14
+          },
+          "end": {
+            "line": 23,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-cannon",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 16900.39783397317,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 7
+          },
+          "end": {
+            "line": 4,
+            "column": 93
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 7
+          },
+          "end": {
+            "line": 5,
+            "column": 93
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 7
+          },
+          "end": {
+            "line": 6,
+            "column": 97
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/BgNodeCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 7
+          },
+          "end": {
+            "line": 7,
+            "column": 97
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 7
+          },
+          "end": {
+            "line": 8,
+            "column": 97
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/RefreshFruitNodeCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 7
+          },
+          "end": {
+            "line": 9,
+            "column": 107
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 7
+          },
+          "end": {
+            "line": 10,
+            "column": 118
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/touchNodeCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 7
+          },
+          "end": {
+            "line": 11,
+            "column": 100
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 7
+          },
+          "end": {
+            "line": 12,
+            "column": 96
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 7
+          },
+          "end": {
+            "line": 13,
+            "column": 98
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 7
+          },
+          "end": {
+            "line": 14,
+            "column": 93
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/BaseUILayerCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 7
+          },
+          "end": {
+            "line": 15,
+            "column": 102
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Billboard.ts",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 7
+          },
+          "end": {
+            "line": 16,
+            "column": 96
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 7
+          },
+          "end": {
+            "line": 17,
+            "column": 93
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/GlobalTemp.ts",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 7
+          },
+          "end": {
+            "line": 18,
+            "column": 97
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 7
+          },
+          "end": {
+            "line": 19,
+            "column": 100
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 7
+          },
+          "end": {
+            "line": 20,
+            "column": 101
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelTicksCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 7
+          },
+          "end": {
+            "line": 21,
+            "column": 109
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelsCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 22,
+            "column": 7
+          },
+          "end": {
+            "line": 22,
+            "column": 105
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageSpritesCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 23,
+            "column": 7
+          },
+          "end": {
+            "line": 23,
+            "column": 106
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LayoutForTopToolAndBanner.ts",
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 7
+          },
+          "end": {
+            "line": 24,
+            "column": 112
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LocalData.ts",
+        "loc": {
+          "start": {
+            "line": 25,
+            "column": 7
+          },
+          "end": {
+            "line": 25,
+            "column": 96
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts",
+        "loc": {
+          "start": {
+            "line": 26,
+            "column": 7
+          },
+          "end": {
+            "line": 26,
+            "column": 105
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/ProgressBarTickCtrl.ts",
+        "loc": {
+          "start": {
+            "line": 27,
+            "column": 7
+          },
+          "end": {
+            "line": 27,
+            "column": 106
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts",
+        "loc": {
+          "start": {
+            "line": 28,
+            "column": 7
+          },
+          "end": {
+            "line": 28,
+            "column": 92
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/migrate-canvas.ts",
+        "loc": {
+          "start": {
+            "line": 29,
+            "column": 7
+          },
+          "end": {
+            "line": 29,
+            "column": 88
+          }
+        }
+      },
+      {
+        "value": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/GameOVerLauer2.ts",
+        "loc": {
+          "start": {
+            "line": 30,
+            "column": 7
+          },
+          "end": {
+            "line": 30,
+            "column": 92
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/BgNodeCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/RefreshFruitNodeCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/touchNodeCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/BaseUILayerCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Billboard.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/GlobalTemp.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelTicksCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelsCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageSpritesCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LayoutForTopToolAndBanner.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LocalData.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/ProgressBarTickCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/migrate-canvas.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/GameOVerLauer2.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts": {
+    "mTimestamp": 1690352844319.1587,
+    "chunkId": "assets/Config/fruit_config.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts": {
+    "mTimestamp": 1690352844318.3003,
+    "chunkId": "assets/GameScene/FruitCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 161
+          },
+          "end": {
+            "line": 1,
+            "column": 165
+          }
+        }
+      },
+      {
+        "value": "../Config/fruit_config",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 29
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/AudioCtrl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/AudioHelper",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 43
+          },
+          "end": {
+            "line": 5,
+            "column": 79
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/BgNodeCtrl.ts": {
+    "mTimestamp": 1690352844307.5015,
+    "chunkId": "assets/GameScene/ui/BgNodeCtrl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 69
+          },
+          "end": {
+            "line": 1,
+            "column": 73
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts": {
+    "mTimestamp": 1690352844307.1157,
+    "chunkId": "assets/GameScene/ui/CanvasCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 106
+          },
+          "end": {
+            "line": 1,
+            "column": 110
+          }
+        }
+      },
+      {
+        "value": "../../GlobalScript/LabelTickCtrl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 30
+          },
+          "end": {
+            "line": 2,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "./gameOverLayer/GameOverLayerCtrl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 34
+          },
+          "end": {
+            "line": 3,
+            "column": 69
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1690353495836,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts": {
+    "mTimestamp": 1690352844306.2688,
+    "chunkId": "assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 45
+          },
+          "end": {
+            "line": 1,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../../GlobalScript/AudioCtrl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 21
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "../../../GlobalScript/AudioHelper",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 63
+          }
+        }
+      },
+      {
+        "value": "../../../GlobalScript/NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 43
+          },
+          "end": {
+            "line": 4,
+            "column": 85
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/touchNodeCtrl.ts": {
+    "mTimestamp": 1690352844304.7913,
+    "chunkId": "assets/GameScene/ui/touchNodeCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 68
+          },
+          "end": {
+            "line": 1,
+            "column": 72
+          }
+        }
+      },
+      {
+        "value": "../GameSceneCtrl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 30
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts": {
+    "mTimestamp": 1690352844303.2136,
+    "chunkId": "assets/GlobalScript/AudioCtrl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 59
+          },
+          "end": {
+            "line": 1,
+            "column": 63
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts": {
+    "mTimestamp": 1690352844302.8884,
+    "chunkId": "assets/GlobalScript/AudioHelper.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "./AudioCtrl",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 26
+          },
+          "end": {
+            "line": 1,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 32
+          },
+          "end": {
+            "line": 2,
+            "column": 36
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/RefreshFruitNodeCtrl.ts": {
+    "mTimestamp": 1690352844306.7024,
+    "chunkId": "assets/GameScene/ui/RefreshFruitNodeCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 57
+          },
+          "end": {
+            "line": 1,
+            "column": 61
+          }
+        }
+      },
+      {
+        "value": "../../GlobalScript/AudioCtrl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 21
+          },
+          "end": {
+            "line": 2,
+            "column": 51
+          }
+        }
+      },
+      {
+        "value": "../../GlobalScript/AudioHelper",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 60
+          }
+        }
+      },
+      {
+        "value": "../../GlobalScript/NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 43
+          },
+          "end": {
+            "line": 4,
+            "column": 82
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts": {
+    "mTimestamp": 1690352844302.498,
+    "chunkId": "assets/GlobalScript/Base64.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/BaseUILayerCtrl.ts": {
+    "mTimestamp": 1690352844302.1597,
+    "chunkId": "assets/GlobalScript/BaseUILayerCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 80
+          },
+          "end": {
+            "line": 1,
+            "column": 84
+          }
+        }
+      },
+      {
+        "value": "./NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 43
+          },
+          "end": {
+            "line": 2,
+            "column": 65
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Billboard.ts": {
+    "mTimestamp": 1690352844301.6755,
+    "chunkId": "assets/GlobalScript/Billboard.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 58
+          },
+          "end": {
+            "line": 1,
+            "column": 62
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts": {
+    "mTimestamp": 1690352844301.3245,
+    "chunkId": "assets/GlobalScript/Config.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 75
+          },
+          "end": {
+            "line": 1,
+            "column": 79
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/GlobalTemp.ts": {
+    "mTimestamp": 1690352844301.0044,
+    "chunkId": "assets/GlobalScript/GlobalTemp.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 49
+          },
+          "end": {
+            "line": 1,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts": {
+    "mTimestamp": 1690352844300.6602,
+    "chunkId": "assets/GlobalScript/LabelTickCtrl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 79
+          },
+          "end": {
+            "line": 1,
+            "column": 83
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts": {
+    "mTimestamp": 1690352844300.28,
+    "chunkId": "assets/GlobalScript/LanguageConfig.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "./Config",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 23
+          },
+          "end": {
+            "line": 1,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelTicksCtrl.ts": {
+    "mTimestamp": 1690352844299.8997,
+    "chunkId": "assets/GlobalScript/LanguageLabelTicksCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 54
+          },
+          "end": {
+            "line": 1,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "./LabelTickCtrl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 30
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./LanguageConfig",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 31
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelsCtrl.ts": {
+    "mTimestamp": 1690352844299.5508,
+    "chunkId": "assets/GlobalScript/LanguageLabelsCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 61
+          },
+          "end": {
+            "line": 1,
+            "column": 65
+          }
+        }
+      },
+      {
+        "value": "./LanguageConfig",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 31
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LayoutForTopToolAndBanner.ts": {
+    "mTimestamp": 1690352844298.7642,
+    "chunkId": "assets/GlobalScript/LayoutForTopToolAndBanner.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 82
+          },
+          "end": {
+            "line": 1,
+            "column": 86
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LocalData.ts": {
+    "mTimestamp": 1690352844298.3247,
+    "chunkId": "assets/GlobalScript/LocalData.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 39
+          },
+          "end": {
+            "line": 1,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Config",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Base64",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 43
+          },
+          "end": {
+            "line": 5,
+            "column": 65
+          }
+        }
+      },
+      {
+        "value": "./Utils",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 31
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts": {
+    "mTimestamp": 1690352844297.9646,
+    "chunkId": "assets/GlobalScript/NotificationCenter.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 23
+          },
+          "end": {
+            "line": 1,
+            "column": 27
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/ProgressBarTickCtrl.ts": {
+    "mTimestamp": 1690352844297.6448,
+    "chunkId": "assets/GlobalScript/ProgressBarTickCtrl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 64
+          },
+          "end": {
+            "line": 1,
+            "column": 68
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/migrate-canvas.ts": {
+    "mTimestamp": 1690352844295.713,
+    "chunkId": "assets/migrate-canvas.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 85
+          },
+          "end": {
+            "line": 14,
+            "column": 89
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageSpritesCtrl.ts": {
+    "mTimestamp": 1690352844299.1592,
+    "chunkId": "assets/GlobalScript/LanguageSpritesCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 65
+          },
+          "end": {
+            "line": 1,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "./Config",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts": {
+    "mTimestamp": 1690352844297.2913,
+    "chunkId": "assets/GlobalScript/Utils.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 259
+          },
+          "end": {
+            "line": 1,
+            "column": 263
+          }
+        }
+      },
+      {
+        "value": "../Config/fruit_config",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 29
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/GameOVerLauer2.ts": {
+    "mTimestamp": 1690352844290.1643,
+    "chunkId": "assets/res/GameOVerLauer2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/AudioCtrl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/AudioHelper",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 43
+          },
+          "end": {
+            "line": 5,
+            "column": 79
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      }
+    ]
+  },
+  "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts": {
+    "mTimestamp": 1690352844317.4326,
+    "chunkId": "assets/GameScene/GameSceneCtrl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 178
+          },
+          "end": {
+            "line": 1,
+            "column": 182
+          }
+        }
+      },
+      {
+        "value": "../Config/fruit_config",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 29
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/AudioCtrl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/AudioHelper",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/NotificationCenter",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 43
+          },
+          "end": {
+            "line": 5,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "../GlobalScript/Utils",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "./FruitCtrl",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 26
+          },
+          "end": {
+            "line": 7,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./ui/CanvasCtrl",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 27
+          },
+          "end": {
+            "line": 8,
+            "column": 44
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts"
+      }
+    ]
+  }
+}

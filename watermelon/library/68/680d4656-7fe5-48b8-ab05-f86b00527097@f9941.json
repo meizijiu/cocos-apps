@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_icon_heart",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 77,
+      "height": 54
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 77,
+      "height": 54
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "680d4656-7fe5-48b8-ab05-f86b00527097@6c48a",
+    "packable": true
+  }
+}

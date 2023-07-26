@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_video",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 2,
+      "width": 59,
+      "height": 44
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 63,
+      "height": 48
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1f69b950-56e9-412e-8de4-5781b94a2d9c@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fruit_8",
+    "atlas": "",
+    "rect": {
+      "x": 12,
+      "y": 5,
+      "width": 60,
+      "height": 67
+    },
+    "offset": {
+      "x": 2,
+      "y": 1.5
+    },
+    "originalSize": {
+      "width": 80,
+      "height": 80
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "17a7b80b-1661-4cc6-88bd-3dbc093eae02@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/cubemap": {
+    "time": 1690352569845.74,
+    "uuid": "ef925514-3c6d-41ef-b3d6-0cb63967f8a6",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials": {
+    "time": 1690352569845.073,
+    "uuid": "b587dfc5-7dab-420d-8ee3-925f3cb91065",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models": {
+    "time": 1690352569833.235,
+    "uuid": "1a208d02-6205-4383-b01b-2fa139e692fb",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/scenes": {
+    "time": 1690352569832.3486,
+    "uuid": "b19d6cc2-8ef4-4fa9-932d-3ec90418fe7d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders": {
+    "time": 1690352569831.55,
+    "uuid": "e33df028-426b-4781-aa1d-3885d18ae44b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures": {
+    "time": 1690352569829.525,
+    "uuid": "189a3e57-49ee-4137-a908-c300d58d0edd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/cubemap/Sky_Anime_03_Day_a.png": {
+    "time": 1690352569847.9465,
+    "uuid": "bc888c42-e054-4037-a092-8533fbfe7364",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/depth.mtl": {
+    "time": 1690352569845.1057,
+    "uuid": "d07968e8-de26-4300-b43d-1beb11df8068",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/normal.mtl": {
+    "time": 1690352569844.7776,
+    "uuid": "ae1ab01a-6023-4121-b6ea-b9b64ee3ff47",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/water.mtl": {
+    "time": 1690352569844.4646,
+    "uuid": "27b92cbe-d408-434c-9971-7ceb8bb59422",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island": {
+    "time": 1690352569837.4275,
+    "uuid": "4d16641c-468b-41cb-8dee-051a7c0a6602",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/scenes/scene.scene": {
+    "time": 1690352569832.4607,
+    "uuid": "6be34924-65b3-459e-a937-4f3e61a1aef9",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/depth.effect": {
+    "time": 1690352569831.5898,
+    "uuid": "086ec662-0a70-4113-8ab2-056bf845d936",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/normal.effect": {
+    "time": 1690352569831.2505,
+    "uuid": "66c30232-688f-4489-8c32-08cd5f928e51",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/water.effect": {
+    "time": 1690352569830.8052,
+    "uuid": "187be6e6-929f-4230-a21a-a2e45ccaf1fd",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/RT_Depth.rt": {
+    "time": 1690352569829.5693,
+    "uuid": "960c3199-fe5d-4d7c-aa44-f2fbd1ed17ae",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/RT_Normal.rt": {
+    "time": 1690352569829.0793,
+    "uuid": "f47d6158-88c6-4f0c-a80e-0cf702fdb370",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/caustics.png": {
+    "time": 1690352569828.631,
+    "uuid": "e46c463c-8dce-4385-be76-ca194b05403a",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/distortion.png": {
+    "time": 1690352569828.1755,
+    "uuid": "b4ea88cb-50d1-44d5-9b1a-e630c94d058d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/noise.jpg": {
+    "time": 1690352569827.5488,
+    "uuid": "172b4fe0-b60a-46fd-a72f-674e9eab9a7b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source": {
+    "time": 1690352569840.9753,
+    "uuid": "a6d77c3a-116f-42c7-a829-6af969d83a04",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures": {
+    "time": 1690352569836.9102,
+    "uuid": "2f0e92ba-72ea-42da-9cb9-65d8907004e5",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin": {
+    "time": 1690352569843.642,
+    "uuid": "ab2ca4ec-07a5-4ce0-8e58-62e599ed44b1",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx": {
+    "time": 1690352569840.5059,
+    "uuid": "a036dc78-1a3b-4bf5-b785-ef86e12b256d",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/Sea_Texture.jpeg": {
+    "time": 1690352569837.021,
+    "uuid": "46f4914a-8d8f-48c5-92a0-2f27088f0b7c",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/Sky_Texture.jpeg": {
+    "time": 1690352569836.494,
+    "uuid": "b2930652-f775-4bad-8291-7125780e6295",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/background_tex.jpeg": {
+    "time": 1690352569835.9646,
+    "uuid": "55ff361b-c2db-4995-9de0-887feb49c55e",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/building_tex.jpeg": {
+    "time": 1690352569835.0142,
+    "uuid": "14f20394-f56c-4077-a1ef-4be4ae95ed3b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/seafloor.jpeg": {
+    "time": 1690352569834.117,
+    "uuid": "c8239159-720c-4e04-852d-688c4852e547",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/Building.mtl": {
+    "time": 1690352569843.677,
+    "uuid": "42071f37-2949-409c-9077-dc34b5185787",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/Material #61.mtl": {
+    "time": 1690352569843.3425,
+    "uuid": "269b3d17-d88e-4ae8-821c-fd849702f5cf",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/environment.mtl": {
+    "time": 1690352569842.9348,
+    "uuid": "550d975b-b16b-49cc-a065-2fcf8114cab1",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/sea.mtl": {
+    "time": 1690352569842.5835,
+    "uuid": "e00a93bf-d6a2-4d41-a3dd-2dc3cc630ff6",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/sky.mtl": {
+    "time": 1690352569841.8406,
+    "uuid": "24617496-8b0b-4edb-aad0-abd649e4f07b",
+    "missing": false
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/cubemap.meta": {
+    "time": 1690352569845.3013
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials.meta": {
+    "time": 1690352569843.916
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models.meta": {
+    "time": 1690352569832.715
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/scenes.meta": {
+    "time": 1690352569831.7896
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders.meta": {
+    "time": 1690352569830.1597
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures.meta": {
+    "time": 1690352569827.0051
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island.meta": {
+    "time": 1690352569833.066
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/normal.effect.meta": {
+    "time": 1690352569831.066
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/depth.effect.meta": {
+    "time": 1690352569831.4172
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/water.effect.meta": {
+    "time": 1690352569830.589
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/scenes/scene.scene.meta": {
+    "time": 1690352569832.1855
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/water.mtl.meta": {
+    "time": 1690352569844.246
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/normal.mtl.meta": {
+    "time": 1690352569844.6301
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/depth.mtl.meta": {
+    "time": 1690352569844.9329
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/RT_Depth.rt.meta": {
+    "time": 1690352569829.3425
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/RT_Normal.rt.meta": {
+    "time": 1690352569828.868
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source.meta": {
+    "time": 1690352569837.2654
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures.meta": {
+    "time": 1690352569833.4702
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin.meta": {
+    "time": 1690352569840.802
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/caustics.png.meta": {
+    "time": 1690352569828.3909
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/distortion.png.meta": {
+    "time": 1690352569827.8052
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/textures/noise.jpg.meta": {
+    "time": 1690352569827.3423
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/Sky_Texture.jpeg.meta": {
+    "time": 1690352569836.2197
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/Sea_Texture.jpeg.meta": {
+    "time": 1690352569836.7449
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/seafloor.jpeg.meta": {
+    "time": 1690352569833.8765
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/Material #61.mtl.meta": {
+    "time": 1690352569843.1333
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/Building.mtl.meta": {
+    "time": 1690352569843.5142
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/background_tex.jpeg.meta": {
+    "time": 1690352569835.2283
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/environment.mtl.meta": {
+    "time": 1690352569842.7568
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/building_tex.jpeg.meta": {
+    "time": 1690352569834.3323
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/sea.mtl.meta": {
+    "time": 1690352569842.104
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/sky.mtl.meta": {
+    "time": 1690352569841.624
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx.meta": {
+    "time": 1690352569837.6538
+  },
+  "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/cubemap/Sky_Anime_03_Day_a.png.meta": {
+    "time": 1690352569845.6086
+  }
+}

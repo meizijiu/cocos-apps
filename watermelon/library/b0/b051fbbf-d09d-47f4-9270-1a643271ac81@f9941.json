@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_champion",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 57,
+      "height": 58
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 57,
+      "height": 58
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b051fbbf-d09d-47f4-9270-1a643271ac81@6c48a",
+    "packable": true
+  }
+}

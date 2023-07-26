@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "score",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 2,
+      "width": 234,
+      "height": 206
+    },
+    "offset": {
+      "x": -1,
+      "y": 10.5
+    },
+    "originalSize": {
+      "width": 242,
+      "height": 231
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "50fb5ac5-63be-452b-a47c-3cf841d80b81@6c48a",
+    "packable": true
+  }
+}

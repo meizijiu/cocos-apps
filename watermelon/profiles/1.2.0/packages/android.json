@@ -1,0 +1,20 @@
+{
+  "options": {
+    "android": {
+      "apiLevel": "android-23",
+      "appABIs": [
+        "armeabi-v7a",
+        "arm64-v8a"
+      ],
+      "orientation": {
+        "landscapeLeft": false,
+        "landscapeRight": false,
+        "portrait": true,
+        "upsideDown": false
+      },
+      "packageName": "com.weiliyouxi.mergefruits.en",
+      "useDebugKeystore": true
+    }
+  },
+  "__version__": "1.0.0"
+}

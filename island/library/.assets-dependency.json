@@ -1,0 +1,189 @@
+{
+  "uuid": {
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/depth.mtl": [
+      "086ec662-0a70-4113-8ab2-056bf845d936"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/normal.mtl": [
+      "66c30232-688f-4489-8c32-08cd5f928e51"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/materials/water.mtl": [
+      "187be6e6-929f-4230-a21a-a2e45ccaf1fd"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/Building.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/Material #61.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/environment.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/sea.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/Materials_carbin/sky.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/depth.effect": [
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/input-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/packing.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/unlit-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/input-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/decode-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/decode-base.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/common.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/morph.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-skinning.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/skinning-lbs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-global.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-local-batch.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-local.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/unlit-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/output.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/gamma.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/packing.chunk"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/normal.effect": [
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/input-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/packing.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/unlit-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/input-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/decode-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/decode-base.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/common.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/morph.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-skinning.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/skinning-lbs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-global.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-local-batch.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-local.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/unlit-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/output.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/gamma.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/packing.chunk"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/shaders/water.effect": [
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/standard-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/input-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shared-ubos.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-fog-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-fog-base.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow-map-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow-map-base.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/packing.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lightingmap-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/standard-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-fog-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/standard-surface-entry.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-standard-base.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-environment.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/texture-lod.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unpack.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-diffusemap.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/output-standard.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/aces.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow-map-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-standard-additive.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-forward-light.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-cluster-additive.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/octahedron-transform.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lightingmap-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shadow-caster-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shadow-caster-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/standard-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/input-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/decode-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/decode-base.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/common.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/morph.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-skinning.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/skinning-lbs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-global.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-local-batch.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-local.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/shared-ubos.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-fog-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-fog-base.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-shadow-map-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-shadow.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-shadow-map-base.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/packing.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/lightingmap-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/standard-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-fog-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/standard-surface-entry.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/shading-standard-base.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/gamma.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-environment.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/texture-lod.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/unpack.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-diffusemap.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/output-standard.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/aces.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-shadow-map-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/shading-standard-additive.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/lighting.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/cc-forward-light.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/shading-cluster-additive.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/octahedron-transform.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/lightingmap-fs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/shadow-caster-vs.chunk",
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/chunks/shadow-caster-fs.chunk"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx@0a1ef": [
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/background_tex.jpeg"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx@05da8": [
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/building_tex.jpeg"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx@b8518": [
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/Sky_Texture.jpeg"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx@97b5c": [
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/Sea_Texture.jpeg"
+    ],
+    "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/source/carbin.fbx@90896": [
+      "/Users/mzwine/Codes/other/cocos-apps/AdvancedCartoonWaterRendering/assets/models/island/textures/seafloor.jpeg"
+    ]
+  }
+}

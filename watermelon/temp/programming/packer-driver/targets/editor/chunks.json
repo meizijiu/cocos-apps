@@ -1,0 +1,288 @@
+{
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1690353511089,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/FruitCtrl.ts": "assets/GameScene/FruitCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/Config/fruit_config.ts": "assets/Config/fruit_config.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/BgNodeCtrl.ts": "assets/GameScene/ui/BgNodeCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/GameSceneCtrl.ts": "assets/GameScene/GameSceneCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/touchNodeCtrl.ts": "assets/GameScene/ui/touchNodeCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.ts": "assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/RefreshFruitNodeCtrl.ts": "assets/GameScene/ui/RefreshFruitNodeCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GameScene/ui/CanvasCtrl.ts": "assets/GameScene/ui/CanvasCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioCtrl.ts": "assets/GlobalScript/AudioCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/AudioHelper.ts": "assets/GlobalScript/AudioHelper.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/BaseUILayerCtrl.ts": "assets/GlobalScript/BaseUILayerCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Billboard.ts": "assets/GlobalScript/Billboard.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Config.ts": "assets/GlobalScript/Config.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Base64.ts": "assets/GlobalScript/Base64.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageConfig.ts": "assets/GlobalScript/LanguageConfig.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/GlobalTemp.ts": "assets/GlobalScript/GlobalTemp.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelTicksCtrl.ts": "assets/GlobalScript/LanguageLabelTicksCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageLabelsCtrl.ts": "assets/GlobalScript/LanguageLabelsCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LayoutForTopToolAndBanner.ts": "assets/GlobalScript/LayoutForTopToolAndBanner.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LocalData.ts": "assets/GlobalScript/LocalData.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LabelTickCtrl.ts": "assets/GlobalScript/LabelTickCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/ProgressBarTickCtrl.ts": "assets/GlobalScript/ProgressBarTickCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/NotificationCenter.ts": "assets/GlobalScript/NotificationCenter.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/migrate-canvas.ts": "assets/migrate-canvas.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/LanguageSpritesCtrl.ts": "assets/GlobalScript/LanguageSpritesCtrl.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/res/GameOVerLauer2.ts": "assets/res/GameOVerLauer2.js",
+      "file:///Users/mzwine/Codes/other/cocos-apps/watermelon/assets/GlobalScript/Utils.ts": "assets/GlobalScript/Utils.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1690353511119,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "assets/GameScene/FruitCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "../Config/fruit_config": "assets/Config/fruit_config.js",
+      "../GlobalScript/AudioCtrl": "assets/GlobalScript/AudioCtrl.js",
+      "../GlobalScript/AudioHelper": "assets/GlobalScript/AudioHelper.js",
+      "../GlobalScript/NotificationCenter": "assets/GlobalScript/NotificationCenter.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/FruitCtrl.js",
+    "mTimestamp": 1690353511471
+  },
+  "assets/Config/fruit_config.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Config/fruit_config.js",
+    "mTimestamp": 1690353511499
+  },
+  "assets/GameScene/ui/BgNodeCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/ui/BgNodeCtrl.js",
+    "mTimestamp": 1690353511513
+  },
+  "assets/GameScene/GameSceneCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "../Config/fruit_config": "assets/Config/fruit_config.js",
+      "../GlobalScript/AudioCtrl": "assets/GlobalScript/AudioCtrl.js",
+      "../GlobalScript/AudioHelper": "assets/GlobalScript/AudioHelper.js",
+      "../GlobalScript/NotificationCenter": "assets/GlobalScript/NotificationCenter.js",
+      "./FruitCtrl": "assets/GameScene/FruitCtrl.js",
+      "./ui/CanvasCtrl": "assets/GameScene/ui/CanvasCtrl.js",
+      "../GlobalScript/Utils": "assets/GlobalScript/Utils.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/GameSceneCtrl.js",
+    "mTimestamp": 1690353511660
+  },
+  "assets/GameScene/ui/touchNodeCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "../GameSceneCtrl": "assets/GameScene/GameSceneCtrl.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/ui/touchNodeCtrl.js",
+    "mTimestamp": 1690353511708
+  },
+  "assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "../../../GlobalScript/AudioCtrl": "assets/GlobalScript/AudioCtrl.js",
+      "../../../GlobalScript/AudioHelper": "assets/GlobalScript/AudioHelper.js",
+      "../../../GlobalScript/NotificationCenter": "assets/GlobalScript/NotificationCenter.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.js",
+    "mTimestamp": 1690353511747
+  },
+  "assets/GameScene/ui/RefreshFruitNodeCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "../../GlobalScript/AudioCtrl": "assets/GlobalScript/AudioCtrl.js",
+      "../../GlobalScript/AudioHelper": "assets/GlobalScript/AudioHelper.js",
+      "../../GlobalScript/NotificationCenter": "assets/GlobalScript/NotificationCenter.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/ui/RefreshFruitNodeCtrl.js",
+    "mTimestamp": 1690353511774
+  },
+  "assets/GameScene/ui/CanvasCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "../../GlobalScript/LabelTickCtrl": "assets/GlobalScript/LabelTickCtrl.js",
+      "./gameOverLayer/GameOverLayerCtrl": "assets/GameScene/ui/gameOverLayer/GameOverLayerCtrl.js"
+    },
+    "physicalLocation": "fs/0/assets/GameScene/ui/CanvasCtrl.js",
+    "mTimestamp": 1690353511821
+  },
+  "assets/GlobalScript/AudioCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/AudioCtrl.js",
+    "mTimestamp": 1690353511858
+  },
+  "assets/GlobalScript/AudioHelper.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./AudioCtrl": "assets/GlobalScript/AudioCtrl.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/AudioHelper.js",
+    "mTimestamp": 1690353511874
+  },
+  "assets/GlobalScript/BaseUILayerCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./NotificationCenter": "assets/GlobalScript/NotificationCenter.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/BaseUILayerCtrl.js",
+    "mTimestamp": 1690353511901
+  },
+  "assets/GlobalScript/Billboard.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/Billboard.js",
+    "mTimestamp": 1690353511926
+  },
+  "assets/GlobalScript/Config.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/Config.js",
+    "mTimestamp": 1690353511940
+  },
+  "assets/GlobalScript/Base64.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/Base64.js",
+    "mTimestamp": 1690353511981
+  },
+  "assets/GlobalScript/LanguageConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./Config": "assets/GlobalScript/Config.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LanguageConfig.js",
+    "mTimestamp": 1690353511993
+  },
+  "assets/GlobalScript/GlobalTemp.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/GlobalTemp.js",
+    "mTimestamp": 1690353512003
+  },
+  "assets/GlobalScript/LanguageLabelTicksCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./LabelTickCtrl": "assets/GlobalScript/LabelTickCtrl.js",
+      "./LanguageConfig": "assets/GlobalScript/LanguageConfig.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LanguageLabelTicksCtrl.js",
+    "mTimestamp": 1690353512043
+  },
+  "assets/GlobalScript/LanguageLabelsCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./LanguageConfig": "assets/GlobalScript/LanguageConfig.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LanguageLabelsCtrl.js",
+    "mTimestamp": 1690353512083
+  },
+  "assets/GlobalScript/LayoutForTopToolAndBanner.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LayoutForTopToolAndBanner.js",
+    "mTimestamp": 1690353512109
+  },
+  "assets/GlobalScript/LocalData.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./Config": "assets/GlobalScript/Config.js",
+      "./Base64": "assets/GlobalScript/Base64.js",
+      "./NotificationCenter": "assets/GlobalScript/NotificationCenter.js",
+      "./Utils": "assets/GlobalScript/Utils.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LocalData.js",
+    "mTimestamp": 1690353512153
+  },
+  "assets/GlobalScript/LabelTickCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LabelTickCtrl.js",
+    "mTimestamp": 1690353512180
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1690353512192
+  },
+  "assets/GlobalScript/ProgressBarTickCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/ProgressBarTickCtrl.js",
+    "mTimestamp": 1690353512213
+  },
+  "assets/GlobalScript/NotificationCenter.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/NotificationCenter.js",
+    "mTimestamp": 1690353512230
+  },
+  "assets/migrate-canvas.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/migrate-canvas.js",
+    "mTimestamp": 1690353512256
+  },
+  "assets/GlobalScript/LanguageSpritesCtrl.js": {
+    "imports": {
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./Config": "assets/GlobalScript/Config.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/LanguageSpritesCtrl.js",
+    "mTimestamp": 1690353512284
+  },
+  "assets/res/GameOVerLauer2.js": {
+    "imports": {
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "../GlobalScript/AudioCtrl": "assets/GlobalScript/AudioCtrl.js",
+      "../GlobalScript/AudioHelper": "assets/GlobalScript/AudioHelper.js",
+      "../GlobalScript/NotificationCenter": "assets/GlobalScript/NotificationCenter.js"
+    },
+    "physicalLocation": "fs/0/assets/res/GameOVerLauer2.js",
+    "mTimestamp": 1690353512314
+  },
+  "assets/GlobalScript/Utils.js": {
+    "imports": {
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "../Config/fruit_config": "assets/Config/fruit_config.js"
+    },
+    "physicalLocation": "fs/0/assets/GlobalScript/Utils.js",
+    "mTimestamp": 1690353512360
+  }
+}
